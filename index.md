@@ -5,17 +5,17 @@ WEAVE PLAYSET
 
 AUTHOR
 ---
-Monocle Society
+Joe Renda
 
 
 TITLE
 ---
-Example Playset Title
+Dungeons and Quests
 
 
 DESCRIPTION
 ---
-This is an example description of the playset. This is what players will read when they first see your playset, and should be considered your elevator pitch to players of what your world is about and what they should expect.
+Lions, and tigers, and...zombies?  Welcome to the era of dungeons and quests.  Like similar table top games / series the players will form a party / team / guild / whatever you wish to call it in the attempts to clear dungeons and quests alike!
 
 
 
