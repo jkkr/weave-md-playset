@@ -131,8 +131,8 @@ _Moths are more likely to be attracted to any player that have a *BRIGHT* tag as
 
 PLOT TWISTS
 ---
-## Example Plot Twists
-These are very useful for a storyteller that may want to change up the story or reintroduce some drama into the player's lives. Plot twists are meant to change the direction of a story, or modify the outcome, but not meant to change the Theme or overarching plot of the episode. There are 2 plot twists per card.
+## Blinded by the Light
+A bright light blinds all who fail a challenge card pulled by the storyteller after plaing this card.  If players pass the challenge they can see just fine after the sudden flash.
 
 ## Disoriented and Lost
 A magical trap was placed somewhere where your players are, and when it went off the players were disoriented by it's affects, and find themselves in another location. This may be a good time to play a location card to find out where they went, unless there is already a place in mind.
@@ -140,18 +140,18 @@ A magical trap was placed somewhere where your players are, and when it went off
 
 LOCATIONS
 ---
-## Example Location
+## A sunny open field
 ![Example Location Image](images/logo.png)
-Location location location. These are places that an NPC, clue, or plot point may direct the players to. Locations are usually played at the end of a scene to start up the next scene in the episode.
+The players are in a open field.  The sky clear of clouds, a soft gentle breeze brings the scents of flowers to the players' noses.
 
-## Abandonded Hospital
+## Royal Mansion
 ![Example Location Image](images/logo.png)
-The walls are ripe with moss and decay, it's super creepy. There are long corridors lined with cots and medical equipment that is way past it's prime. Some Flourescent lights are still on, but flicker sporadically.
+Were they summoned here or is this one of the players' homes?  Nether the less it is a rather large house equiped with the right amount of staff to keep the place looking spotless.
 
-_If the players go too far down a hallway, they might encounter renegade punks looking to scavenge equipment, and it might incur an encounter_
+_The players will be greeted by either a staff member or the owner of this fine house._
 
 
 THEME
 ---
-## Example Theme
-The theme is the overarching plot or task of the episode and is tied to the Boss of the episode, or the Boss of the episode might benefit from a certain outcome.
+## Light of a new era
+Adventures from around the world are gathering in groups taking on dungeons, quests, and danger alike.  Some of which contains magic, strange items, and of course glory.  The players are faced with a many options of what they want and how to obtain it.  It'll be a team effort to make sure they live to see the next light of day.
